@@ -1,3 +1,7 @@
+0.0.0.0 pubfuture.com
+0.0.0.0 adskeeper.com
+0.0.0.0 cdn.adskeeper.co.uk
+0.0.0.0 s-img.adskeeper.com
  0.0.0.0 livejasmin.academy
  0.0.0.0 www.livejasmin.academy
  0.0.0.0 audio.ad
@@ -15727,6 +15731,7 @@
  0.0.0.0 go.mgdjmp.com
  0.0.0.0 tracking.go.mge.com
  0.0.0.0 mgid.com
+ 0.0.0.0 clck.mgid.com
  0.0.0.0 mm.log.mgtv.com
  0.0.0.0 moblieex.log.mgtv.com
  0.0.0.0 p2p.log.mgtv.com
